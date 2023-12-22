@@ -1,0 +1,15 @@
+[submodule "cmpe126_lab1"]
+	path = cmpe126_lab1
+	url = https://github.com/saimayunus925/cmpe126_lab1
+[submodule "cmpe126_lab2"]
+	path = cmpe126_lab2
+	url = https://github.com/saimayunus925/cmpe126_lab2.git
+[submodule "cmpe126_lab3"]
+	path = cmpe126_lab3
+	url = https://github.com/saimayunus925/cmpe126_lab3.git
+[submodule "cmpe126_lab4"]
+	path = cmpe126_lab4
+	url = https://github.com/saimayunus925/cmpe126_lab4.git
+[submodule "cmpe126_lab6"]
+	path = cmpe126_lab6
+	url = https://github.com/saimayunus925/cmpe126_lab6.git
